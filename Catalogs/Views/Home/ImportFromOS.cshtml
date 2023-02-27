@@ -1,0 +1,15 @@
+﻿@model string
+
+@{
+    ViewData["Title"] = "Import From OS";
+}
+
+<h2>Import From OS</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="path">Enter directory path:</label>
+        <input type="text" id="path" name="path" class="form-control" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Import</button>
+</form>

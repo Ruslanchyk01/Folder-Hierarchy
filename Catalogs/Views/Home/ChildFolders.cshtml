@@ -1,0 +1,20 @@
+﻿@model FoldersViewModel
+
+<h1>"@Model.Folder.Description" - @Model.Folder.Name</h1>
+
+<ul>
+    @foreach (var child in Model.Folders)
+    {
+        <li>
+            <a asp-controller="Home" asp-action="ChildFolders" asp-route-id="@child.Id">@child.Name</a>
+        </li>
+    }
+
+    @if (Model.Folder != null && Model.Folder.FolderId != null)
+    {
+        <div>
+            <br>
+            <a class="btn btn-primary" href="@Url.Action("ChildFolders", "Home", new { id = Model.Folder.FolderId })">Back to Parent</a>
+        </div>
+    }
+</ul>

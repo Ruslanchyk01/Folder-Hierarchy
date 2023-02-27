@@ -1,0 +1,17 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Catalogs.Models.FoldersViewModel
+
+@{
+    ViewData["Title"] = "Gatalogs";
+}
+
+<h1>"@Model.Folder.Description" - @Model.Folder.Name</h1>
+
+<ul>
+    @foreach (var child in Model.Folders)
+    {
+        <li>
+            <a asp-controller="Home" asp-action="ChildFolders" asp-route-id="@child.Id">@child.Name</a>
+        </li>
+    }
+</ul>

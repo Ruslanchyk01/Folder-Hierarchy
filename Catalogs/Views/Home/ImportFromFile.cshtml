@@ -1,0 +1,16 @@
+﻿@model string
+
+@{
+    ViewData["Title"] = "Import From File";
+}
+
+<h2>Import From File</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="file">File:</label>
+        <input type="file" name="file" class="form-control-file" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Import</button>
+</form>
