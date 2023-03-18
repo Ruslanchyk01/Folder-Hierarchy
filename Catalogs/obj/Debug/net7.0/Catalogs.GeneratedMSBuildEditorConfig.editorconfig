@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Catalogs
 build_property.RootNamespace = Catalogs
-build_property.ProjectDir = /Users/ruslanbaiorok/Projects/Catalogs/Catalogs/
+build_property.ProjectDir = /Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ruslanbaiorok/Projects/Catalogs/Catalogs
+build_property.MSBuildProjectDirectory = /Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/Home/ChildFolders.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/Home/ChildFolders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DaGlsZEZvbGRlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/Home/ImportFromFile.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/Home/ImportFromFile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbXBvcnRGcm9tRmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/Home/ImportFromOS.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/Home/ImportFromOS.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbXBvcnRGcm9tT1MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/Home/Index.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/Home/Privacy.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/Shared/Error.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/_ViewImports.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/_ViewStart.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Views/Shared/_Layout.cshtml]
+[/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hgp7jix1ii

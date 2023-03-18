@@ -35,7 +35,7 @@ public class HomeController : Controller
 
 
     //Головна сторінка
-    public IActionResult Index(string name)
+    public IActionResult Index()
     {
         var mainFolder = _context.Folders.Include(p => p.Folders).FirstOrDefault(f => f.FolderId == null);
 
@@ -73,6 +73,7 @@ public class HomeController : Controller
 
         foreach (var directory in folders)
         {
+            sb.AppendLine($"Directory Id: {directory.Id}");
             sb.AppendLine($"Directory Name: {directory.Name}");
             sb.AppendLine($"Directory Description: {directory.Description}");
             sb.AppendLine($"Directory ParentID: {directory.FolderId}");

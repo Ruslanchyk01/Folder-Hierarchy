@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Catalogs.csproj": {}
+    "/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Catalogs.csproj": {}
   },
   "projects": {
-    "/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Catalogs.csproj": {
+    "/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Catalogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Catalogs.csproj",
+        "projectUniqueName": "/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Catalogs.csproj",
         "projectName": "Catalogs",
-        "projectPath": "/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/Catalogs.csproj",
+        "projectPath": "/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/Catalogs.csproj",
         "packagesPath": "/Users/ruslanbaiorok/.nuget/packages/",
-        "outputPath": "/Users/ruslanbaiorok/Projects/Catalogs/Catalogs/obj/",
+        "outputPath": "/Users/ruslanbaiorok/Projects/Folder-Hierarchy/Catalogs/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -46,17 +46,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.4, )"
             }
           },
           "imports": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
